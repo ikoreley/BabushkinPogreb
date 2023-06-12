@@ -1,0 +1,5 @@
+.idea
+/logs
+dispatcher/target
+info.txt
+/dispatcher/src/main/resources/application.properties
